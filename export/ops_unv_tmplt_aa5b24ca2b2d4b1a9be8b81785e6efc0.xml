@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-07-30 12:52:55" unload_format="1" unload_table="ops_unv_tmplt" unload_version="6.4.5.0"><ops_unv_tmplt action="INSERT_OR_UPDATE"><credentials_var/><broadcast_cluster/><agent/><use_common_script>false</use_common_script><credentials/><icon_filesize>1891</icon_filesize><icon>iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAABlhJREFUWMO9WV1sXEcV/s7M3Lt7vetd2038k8Y4idsqFDUpTUMgVID4KQovCFoeqvYhEioI8QJIlaASICFQ8kCLkFBEKvEMjSASKYqqVlGEaOkfTdM0rUP8k9rYNWt7vev9v/fOzOHBcWona+/d65pP+3KvRjPfnPnOd86dJWbGplEzPFqzsz5Lwm5PDHnCoZhTqU1S0YxzeX1yJnytZJY0BKHPoS/3yO/udPZ3yhisaDMRqhp+ajL4zVRY1IwbizMA7PLE8WH3W32OaJNUfEIh41cT/rHJIGg6AWO7Qyf2Jh/ua+8QROzwnM6FT0+twwYAYT7kJ8f9S2X7/yD0n4Y9NhmUzYaDCKM1++vJwG+HUkxCp3L6UsWipT4IZxb0y0UTZc74hPIhn8rpiNpb0vxsLrSRhRqH0IWSuVw1rcOzgvMFM+1bAIFF2Or44vjQS0VTM4hKiDDl2/OLZknrF/ImIfCNXvVQr/LWManWhDTjnbL5Z9GUDe5Ji09l5cU2Eyew+PGYv6g5sABwNq9Hqu7P9iQSzY6nhQ9VND89FZyYDnMBA0hKHM7Iq3U77W+q4HQIPLM3+eiA0x6hwOLn4/5TU0G4+i23OqyWAwAwPpOVZ/Z729ybh24k6jPz+nfTa9lgncUYYCQIQwn6Yrfsb1laCRfKpqkdrKuhfMi/nQoqG4uXkRTod2mPJz7bJQ9m5CdSIqPom5fq/y22SEPf4nzBfL33ZgLrEjqX16+XN5q0z6Xv7HAOZ+WdHQKMPanrZbRqosrrctXUDd+Ubs0JGcZzCyaw64eHsScpnhhyOxUZxgeN9vJuGbM+lw08ueZlcw3lAn6j1IbfxwGhbLh2SzibE5qo25mAo3txPNQtphvRCL1ft9GlEBsLIT8+0vjrnF69UnMNzfrMreykYflazaYlGcacb30DIhBQM9yIvJkrNfu9fzdckTyyTW1EaEm3nlES0pLSigxzxVBa0XKaCYKkyIdNmPX5yTF/b0rs9sTNhHyLt0rm7Yp9JYKiHaLtCepUZJg0274kraQ9nLZ6CMLFij05HR67M0GrCeV8/sWE/8c5XQgZFLmYfyQg/CkXHt3h7E2J63sphvzDq40TM2FBb3lyNcWkz2cXNG5k2TMz4ak53RYVy/goE5Hx4qKuGlYArlTtyZnQRKnSN0AYqdnHRxqHMvLeTpGV1JtAIv4nDEC4XLXX6qwAnJ7TE/UIHftalAz/eU7/ZU57EgOu2J8W92fkgYwYTIh4kVsI+b2KUcWQn8/r2NtioGYxXrfjdXt6XnsS/S7lwzg50bB4r2rVSNVeqbUZnlsPd+WxbnGtEVdZjKkGi0sVW4hgg6uX/kK37I19u7Eh5kMWV6q2HT7wBH4w6N6fkdiCWlexrGYDG6kLXgaj3xWB5Z0uAehW5AloRsOiZhmAS2CgQ5DPnBKkCDNBe+FXhTYFvcujN8u22yFX4Gi/+kqPqlv+R8G8UDCBxcGMSAp6ICv/XtSf61KexE8ngonI7VtWkuI2Qz+cFP8qmUNZ2ePQH2b1hbJ9oEsGfL3xyzq0zaFzBe0Jem5BM3AoI6J7Sq9Loquday4lsNsTkpAS2JkQpZB3eeKlJeOv1BsCKgZvV+xAkg5kxOGsHIhsl0QY9oTqcyl6zmcl7U+LA2m3y6F3qna0RkNJOj1v7/LEMhsCQsshwyVIotmAXy1FvQXokLg7JdRdHUICkfpnxseS9HLR/P6DcF9KHMzIT2d4rGbLAVsgLShBSEryDTNjPuDXlvTrJasiBogx4IqPp4Ta1ykziiJa0bAnxut2MeB3yR65TT3S5wAYTIgZ3x4dcALm0TpbhgUuV+33B90jNfu3vH6zHElD93WKwaRQd6fEHZ54I0pgCRfLtmwYAouan50L+12RVahbvFoyRLQY8kjNEpALecq32x1KSxqrR+pnJOFrtylXgJj5J2P+8feDtqvP6pjSyiPdMiDKtIx9aXH2kx23J0gAeLhX9bntlwJa9QOaNJmR205J+PYO5/YEYblBu7dTPtbvbEUpiATGV3vUYytXM2KZ4I+G3C/1bEl5asnmvk5x/I5Ez0q1/vB+6GrVPjHqP7+ogzjf6XGQFHiwR/1yOHFP54fesObCqhjyi4v6rZL1Dbdhl7Ei06HoYFZ+vltm1JqFNvVfx1ZgM335luB/kR0I9SROBXgAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTYtMDktMDZUMjI6NDc6MTUrMDI6MDBi9g/ZAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE2LTA5LTA2VDIyOjQ3OjE1KzAyOjAwE6u3ZQAAAABJRU5ErkJggg==</icon><icon_date_created>2018-07-26 12:49:44</icon_date_created><description/><sys_updated_on>2018-07-26 15:59:01</sys_updated_on><agent_var/><icon_filename>azure_icon.png</icon_filename><sys_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</sys_id><output_return_text/><sys_updated_by>ops.admin</sys_updated_by><variable_prefix>az</variable_prefix><sys_created_on>2018-07-26 09:52:30</sys_created_on><script_windows/><credentials_var_check>false</credentials_var_check><agent_cluster_var/><agent_cluster_var_check>false</agent_cluster_var_check><agent_var_check>false</agent_var_check><sys_created_by>ops.admin</sys_created_by><output_return_nline>100</output_return_nline><output_return_sline>1</output_return_sline><exit_code_text/><runtime_dir/><output_type>1</output_type><desktop_interact>false</desktop_interact><output_return_type>1</output_return_type><script_unix>#!/usr/bin/python  
+
+###################################################
+#
+#    Name: upload_dir_to_container.py
+#
+#    Purpose: upload a directory to a container
+#             using blobxfer python cli
+#             
+#             
+#    Prerequisites:
+#     - Universal Agent for Windows/Linux
+#     - Python 2.7.x
+#     - Requires the Python modules via pip
+#     - pip install azure-storage-blob
+#     - pip install azure-storage-logging
+#     - requires blobxfer: http://blobxfer.readthedocs.io/en/latest/01-installation
+################################
+## blobxfer install:
+################################
+
+## Ubuntu ###############
+# for Python3 (recommended)
+#apt-get update
+#apt-get install -y build-essential libssl-dev libffi-dev python3-dev python3-pip
+
+# for Python2
+#apt-get update
+#apt-get install -y build-essential libssl-dev libffi-dev python-dev python-pip
+
+## CentOS/RHEL #############
+# for Python3 (recommended)
+#yum install -y epel-release
+#yum install -y python34 python34-devel gcc openssl-devel libffi-devel
+#curl -fSsL https://bootstrap.pypa.io/get-pip.py | python3
+
+# for Python2
+#yum install -y gcc openssl-devel libffi-devel python-devel
+#curl -fSsL https://bootstrap.pypa.io/get-pip.py | python
+
+## SLES/OpenSUSE ################
+# for Python3 (recommended)
+#zypper ref
+#zypper -n in gcc libopenssl-devel libffi48-devel python3-devel
+#curl -fSsL https://bootstrap.pypa.io/get-pip.py | python3
+
+# for Python2
+#zypper ref
+#zypper -n in gcc libopenssl-devel libffi48-devel python-devel
+#curl -fSsL https://bootstrap.pypa.io/get-pip.py | python
+#
+#     Version History:
+#     1.0  Nils Buer    2018-07-26    using SB Code standards
+#          
+####################################################
+version = "0.1"
+
+# Used modules
+
+import re
+import glob
+import sys
+import datetime
+import os 
+import time
+import logging
+
+# -- logging settings DEBUG, INFO, WARNING, ERROR, CRITICAL
+
+logging.basicConfig(level=logging.${ops_az_loglevel}, format=' %(asctime)s - %(levelname)s - %(message)s')
+
+# Sample CLI Command to test in Command Shell or dos Box
+# blobxfer upload --storage-account xyz --storage-account-key "abc.." --remote-path container-test --local-path /demo/out/salesdata --no-recursive
+  
+
+def main():
+    Set_Variables()                             # -- set variables
+    Test_Dir('${ops_az_blobxfer_dir}')          # -- test is directories exist
+    Test_Dir('${ops_az_local_path}')            # -- test is directories exist
+    upload()                                    # -- upload data to container
+
+
+# -- Set Variables from Universal Task Form or Command Line Input
+def Set_Variables():
+
+    logging.info("Executing version " + version + " with the following paramaters")   
+    logging.info('####### Parameters:') # print out all parameters
+    logging.info('blobxfer cli dir: ${ops_az_blobxfer_dir}')
+    logging.info('Source local-path: ${ops_az_local_path}')
+    logging.info('Target Container: ${ops_az_container}') 
+    logging.info('recursive: ${ops_az_recursive}')
+    logging.info('storage-account name: ${_credentialUser('${ops_az_azure_account}')}')
+    logging.info('storage-account-key: ${_credentialPwd('${ops_az_azure_account}')}')
+
+  
+def Test_Dir(testdir):
+    if os.path.isdir(testdir):
+       logging.debug('Directory found ' + testdir)
+    else:
+       logging.error('Directory not found: ' + testdir)
+       sys.exit(1) 
+
+  
+def Test_File(testfile):
+    if os.path.isfile(testfile):
+       logging.debug('File found ' + testfile)
+    else:
+       logging.error('File not found: ' + testfile)
+       sys.exit(1) 
+
+
+def upload():
+
+  # ## start an SAPBODS Job
+  global start_time
+  logging.info('##### Processing Start ##### ')
+  start_time = time.time() # time when the upload is started
+  logging.debug('Agent Home DIR: ' + os.getcwd())
+  os.chdir('${ops_az_blobxfer_dir}')
+  logging.debug('Dir changed to blobxfer cli Home DIR: ' + os.getcwd())
+  cmd = "blobxfer upload --storage-account ${_credentialUser('${ops_az_azure_account}')} --storage-account-key " + '"' + "${_credentialPwd('${ops_az_azure_account}')}" + '"' + " --remote-path ${ops_az_container} --local-path ${ops_az_local_path} ${ops_az_recursive}"
+  logging.debug ("cmd = " + cmd)
+  os.system(cmd)
+
+  
+# -- Execute
+main()
+</script_unix><output_return_file/><run_as_sudo>false</run_as_sudo><script/><agent_type>2</agent_type><script_type_windows>.py</script_type_windows><environment/><agent_cluster/><elevate_user>false</elevate_user><exit_code_output/><name>AZ_blobxfer_upload_dir_to_container</name><exit_codes>0</exit_codes><exit_code_processing>1</exit_code_processing><create_console>false</create_console><related_items_node><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-07-26 10:57:25</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>235e3cc50722453182e03c5a372c90f6</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 09:57:12</sys_created_on><field_value>--no-recursive</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>recursive</label><int_field_max/><sequence>3</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField1</field_mapping><name>recursive</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-07-26 10:39:46</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>26190d47679145d1a0f2c564f6242ef6</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 09:55:05</sys_created_on><field_value>/usr/bin</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>blobxfer_bin_dir</label><int_field_max/><sequence>0</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>directory where the blobxfer cli is located</hint><field_mapping>textField1</field_mapping><name>blobxfer_dir</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-07-26 10:03:22</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>8198ea2fb34e46598985cff4c437be77</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 10:03:22</sys_created_on><field_value>d176c220d805439aa0cceb39d89c75da</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>azure_account_credentials</label><int_field_max/><sequence>4</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>credentialField1</field_mapping><name>azure_account</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-07-26 10:34:20</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>82857f2bd0fb4ee7a85c3694ef627458</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 10:34:20</sys_created_on><field_value>INFO</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>loglevel</label><int_field_max/><sequence>5</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField2</field_mapping><name>loglevel</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-07-26 09:56:27</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>a2f138ac9cc24b258bf7c99c601ce841</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 09:56:27</sys_created_on><field_value/><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>target container</label><int_field_max/><sequence>2</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField3</field_mapping><name>container</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-07-26 09:56:01</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>eb6922478b114fb0af2d5efc8bb57253</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 09:56:01</sys_created_on><field_value/><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>source directory</label><int_field_max/><sequence>1</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>local_path of the directory to copy</hint><field_mapping>textField2</field_mapping><name>local_path</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>235e3cc50722453182e03c5a372c90f6</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>4463562a7e6c43799a97f1b2e822457e</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 10:12:20</sys_created_on><field_value_label>Yes</field_value_label><field_value>--recursive</field_value><sys_updated_on>2018-07-26 10:57:45</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>82857f2bd0fb4ee7a85c3694ef627458</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>49d1c5508e98457fa82c20427d387180</sys_id><sequence>4</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 10:36:10</sys_created_on><field_value_label>CRITICAL</field_value_label><field_value>CRITICAL</field_value><sys_updated_on>2018-07-26 10:36:10</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>82857f2bd0fb4ee7a85c3694ef627458</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>5b89d8cb5eff427ea34f3d2fccecb867</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 10:34:35</sys_created_on><field_value_label>DEBUG</field_value_label><field_value>DEBUG</field_value><sys_updated_on>2018-07-26 10:34:35</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>82857f2bd0fb4ee7a85c3694ef627458</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>d7cd17a368d841a5b9126b2c499cd39b</sys_id><sequence>2</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 10:34:44</sys_created_on><field_value_label>ERROR</field_value_label><field_value>ERROR</field_value><sys_updated_on>2018-07-26 10:34:44</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>82857f2bd0fb4ee7a85c3694ef627458</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>e32125be250f4070865e65cd05f2ce3a</sys_id><sequence>3</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 10:35:05</sys_created_on><field_value_label>WARNING</field_value_label><field_value>WARNING</field_value><sys_updated_on>2018-07-26 10:35:05</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>82857f2bd0fb4ee7a85c3694ef627458</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>e868f217fee849cd96e1a569b9f0addf</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 10:34:27</sys_created_on><field_value_label>INFO</field_value_label><field_value>INFO</field_value><sys_updated_on>2018-07-26 10:34:27</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>235e3cc50722453182e03c5a372c90f6</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>fbbca7749246405185e2517cf271412c</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-07-26 10:12:04</sys_created_on><field_value_label>No</field_value_label><field_value>--no-recursive</field_value><sys_updated_on>2018-07-26 10:57:38</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>aa5b24ca2b2d4b1a9be8b81785e6efc0</universal_template_id></ops_unv_tmplt_field_choice></related_items_node></ops_unv_tmplt></unload>
